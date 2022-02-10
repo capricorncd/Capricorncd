@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Capricorncd(Zhong Xing / Kane Oki), I'm a Web Engineer at freelance now, and I've been working in web development since 2016. I'm from China, and I'm currently living in Tokyo.
+I'm Capricorncd(Zhong Xing / カネ オキ), I'm a Web Engineer at freelance now, and I've been working in web development since 2016. I'm from China, and I'm currently living in Tokyo.
 
 ### 🏆 GitHub Profile Trophy:
 ---
