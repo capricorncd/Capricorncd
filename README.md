@@ -8,7 +8,7 @@ These are some of the technologies and tools that I work with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-0d8ac7?style=flat-square&logo=java)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=vue.js&logoColor=white)
 ![NuxtJS](https://img.shields.io/badge/-NuxtJS-2f495e?style=flat-square&logo=nuxt.js&logoColor=white)
@@ -20,7 +20,7 @@ These are some of the technologies and tools that I work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass(Scss/Less/Stylus)-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/-Webstorm-1990e0?style=flat-square&logo=webstorm&logoColor=000)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -39,6 +39,7 @@ These are some of the technologies and tools that I work with:
 ![Threejs](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
+![Ruby](https://img.shields.io/badge/-Ruby-ec8981?style=flat-square&logo=Ruby&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001e36.svg?style=flat-square&logo=adobe%20photoshop&logoColor=31a8ff)
