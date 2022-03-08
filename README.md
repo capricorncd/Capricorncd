@@ -54,7 +54,7 @@ These are some of the technologies and tools that I work with:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Capricorncd&column=8&theme=radical&no-frame=true&no-bg=true"/>
 </a>
--->
+
 
 ## 📊 GitHub Stats:
 
@@ -62,4 +62,5 @@ These are some of the technologies and tools that I work with:
 
 ![Capricorncd Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Capricorncd&theme=solarized_dark)
 ![Capricorncd Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Capricorncd&theme=solarized_dark)
+-->
 ![Capricorncd Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Capricorncd&theme=solarized_dark)
