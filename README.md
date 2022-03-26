@@ -24,30 +24,34 @@ These are some of the technologies and tools that I work with:
 ![Sass](https://img.shields.io/badge/-Sass(Scss/Less/Stylus)-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/-Webstorm-1990e0?style=flat-square&logo=webstorm&logoColor=000)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2d2056?style=flat-square&logo=eclipse&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white)
 ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=flat-square&logo=alibabacloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-1c78c0.svg?style=flat-square&logo=webpack&logoColor=8ed5fa)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat-square&logo=gulp&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
 ![Threejs](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+<!--
+![Eclipse](https://img.shields.io/badge/-Eclipse-2d2056?style=flat-square&logo=eclipse&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![Ruby](https://img.shields.io/badge/-Ruby-ec8981?style=flat-square&logo=Ruby&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+-->
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001e36.svg?style=flat-square&logo=adobe%20photoshop&logoColor=31a8ff)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-00005b.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=9999ff)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-001e36.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=31a8ff)
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-00005b.svg?style=flat-square&logo=Adobe%20Audition&logoColor=9999ff)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-330000.svg?style=flat-square&logo=adobe%20illustrator&logoColor=ffa000)
+<!--
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=ff61f6)
+-->
 
 <!--
 ### 🏆 GitHub Profile Trophy:
