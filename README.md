@@ -6,8 +6,8 @@ I'm Capricorncd(Zhong Xing / カネ オキ), I'm a Web Engineer, and I've been w
 
 These are some of the technologies and tools that I work with:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-0d8ac7?style=flat-square&logo=java)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=vue.js&logoColor=white)
@@ -35,13 +35,13 @@ These are some of the technologies and tools that I work with:
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
 ![Threejs](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 <!--
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2d2056?style=flat-square&logo=eclipse&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![Ruby](https://img.shields.io/badge/-Ruby-ec8981?style=flat-square&logo=Ruby&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 -->
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001e36.svg?style=flat-square&logo=adobe%20photoshop&logoColor=31a8ff)
