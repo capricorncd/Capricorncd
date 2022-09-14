@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Xing Zhong(<ruby>鐘<rt>かね</rt></ruby> <ruby>興<rt>おき</rt></ruby>), I'm a Web Engineer, and I've been working in web development since 2016. I'm from China, and I'm currently living in Tokyo.
+I'm Capricorncd, I'm a Web Engineer, and I've been working in web development since 2016. I'm from China, and I'm currently living in Tokyo.
 
 Since I can't sign in Github, there may be a day when this account's repository can no longer be maintained.
 
