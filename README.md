@@ -2,6 +2,8 @@
 
 I'm Capricorncd, I'm a Web Engineer, and I've been working in web development since 2016. I'm from China, and I'm currently living in Tokyo.
 
+WeChat: Capricorncd (微信)
+
 Since I can't sign in Github, there may be a day when this account's repository can no longer be maintained.
 
 ## ⚡ Technologies
