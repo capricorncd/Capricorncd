@@ -41,10 +41,6 @@ These are some of the technologies and tools that I work with:
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001e36.svg?style=flat-square&logo=adobe%20photoshop&logoColor=31a8ff)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-001e36.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=31a8ff)
 
-### Contributions Graph
-
-![](https://raw.githubusercontent.com/miracles1919/miracles1919/output/github-contribution-grid-snake.svg)
-
 <!--
 ### 🏆 GitHub Profile Trophy:
 ---
