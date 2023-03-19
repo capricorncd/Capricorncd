@@ -2,6 +2,8 @@
 
 I'm Capricorncd, I'm a Web Engineer, and I've been working in web development since 2016. I'm from China, and I'm currently living in Japan.
 
+由于手机短信功能已被GRD移动禁用，无法再登录该账号，所以可能某一天不能再维护该号的各库（目前使用桌面版GitHub Desktop的登录记录，勉强还能更新提交代码）！
+
 > Since I can't sign in Github, there may be a day when this account's repository can no longer be maintained.
 
 ## ⚡ Technologies
