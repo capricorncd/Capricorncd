@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-I'm Capricorncd, I'm a Web Engineer, and I've been working in web development since 2016. I'm from China, and I'm currently living in Japan.
-
-由于手机短信功能已被GRD移动禁用，无法再登录该账号，所以可能某一天不能再维护该号的各库（目前使用桌面版GitHub Desktop的登录记录，勉强还能更新提交代码）！
-
-> Since I can't sign in Github, there may be a day when this account's repository can no longer be maintained.
+I'm Capricorncd, I'm a Web Engineer, and I've been working in web development since 2016. I'm from China.
 
 ## ⚡ Technologies
 
@@ -21,7 +17,6 @@ These are some of the technologies and tools that I work with:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Scss(Less)-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -37,7 +32,6 @@ These are some of the technologies and tools that I work with:
 ![Gulp](https://img.shields.io/badge/GULP-CF4647.svg?style=flat-square&logo=gulp&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001e36.svg?style=flat-square&logo=adobe%20photoshop&logoColor=31a8ff)
