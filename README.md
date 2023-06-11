@@ -20,6 +20,8 @@ These are some of the technologies and tools that I work with:
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=markdown&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-213547?style=flat-square&logo=vite)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
+![LangChain](https://img.shields.io/badge/LangChain-11a37f.svg?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/Python-3872a2.svg?style=flat-square&logo=Python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 
 
