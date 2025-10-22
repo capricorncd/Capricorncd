@@ -21,7 +21,6 @@ These are some of the technologies and tools that I work with:
 ![Vite](https://img.shields.io/badge/-Vite-213547?style=flat-square&logo=vite)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
 ![Python](https://img.shields.io/badge/Python-3872a2.svg?style=flat-square&logo=Python&logoColor=white)
-![cursor.com](static/cursor.svg)
 ![Java](https://img.shields.io/badge/Java-3a75b0.svg?style=flat-square&logo=openjdk&logoColor=white)
 
 
