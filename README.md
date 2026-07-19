@@ -24,7 +24,4 @@ These are some of the technologies and tools that I work with:
 ![Java](https://img.shields.io/badge/Java-3a75b0.svg?style=flat-square&logo=openjdk&logoColor=white)
 
 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001e36.svg?style=flat-square&logo=adobe%20photoshop&logoColor=31a8ff)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-001e36.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=31a8ff)
-
-![Capricorncd Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Capricorncd&theme=solarized_dark)
+![Capricorncd Summary](./profile-summary-card-output/solarized_dark/0-profile-details.svg)
