@@ -22,6 +22,3 @@ These are some of the technologies and tools that I work with:
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
 ![Python](https://img.shields.io/badge/Python-3872a2.svg?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-3a75b0.svg?style=flat-square&logo=openjdk&logoColor=white)
-
-
-![Capricorncd Summary](./profile-summary-card-output/solarized_dark/0-profile-details.svg)
